@@ -1,14 +1,14 @@
 
 ### Idk who i am; not your average coder.
 
-☾━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━☽
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 > ### Info: 
 Hello! Welcome to my Github page. You could find my personal project that doesn't involve games/hacking here! It's mostly gonna be my school project or my learning journey, so expect nothing here :)
 
 For project/personal purposes, please contact the linked email on this page. Thank you.
-☾━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━☽
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 > ### Skills: 
@@ -72,7 +72,7 @@ For project/personal purposes, please contact the linked email on this page. Tha
 
 <br/> 
 
-☾━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━☽
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
  > ### Socials 
  
@@ -80,7 +80,7 @@ For project/personal purposes, please contact the linked email on this page. Tha
    [![Info](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://h4.corp)
    [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/715114698953064529)
  
- ☾━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━☽
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
  <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ikramh4&show_icons=true&count_private=true&hide_border=true"/>
